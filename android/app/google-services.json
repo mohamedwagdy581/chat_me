@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843508501684",
+    "project_id": "chat-me-2c5fc",
+    "storage_bucket": "chat-me-2c5fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843508501684:android:8f618a0e194742c006dbe1",
+        "android_client_info": {
+          "package_name": "com.mohamedwagdy4153.chat_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843508501684-ijb44f5dqh5dt9ouqaph91kurngs0ack.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB6iIfyn6rJ2-sP6j2-PEqFdJsib_sOKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843508501684-ijb44f5dqh5dt9ouqaph91kurngs0ack.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
